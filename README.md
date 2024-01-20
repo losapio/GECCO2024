@@ -36,6 +36,8 @@ stage	= life-history stage
 
 Notes
 
+The second dataset art2.csv contains the summary table formatted for statistical analysis. In there, each row is a replicated experimental unit (i.e., one pitfall in each treatment combination in each sampling time).
+
 
 
 
