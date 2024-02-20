@@ -14,6 +14,7 @@ Losapio, G., De Moraes, C.M., Nickels, V., Tscheulin, T., Zouros, N., Mescher, M
 
 
 R code is publicy available online in this GitHub project
+https://github.com/losapio/GECCO2024
 
 Citation for R code:
 Gianalberto Losapio. (2024). The effects of shrub encroachment on arthropod communities depend on grazing history, GitHub [R code] (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.10682773
