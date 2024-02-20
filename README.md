@@ -2,19 +2,20 @@
 R script to reproduce the results and figures of the manuscript "The effects of shrub encroachment on arthropod communities depend on grazing history" published in Global Ecology and Conservation.
 Feel free to reuse the code.
 
-############
+
 Reference:
 Losapio, G., De Moraes, C.M., Nickels, V., Tscheulin, T., Zouros, N., Mescher, M.C. (2024) The effects of shrub encroachment on arthropod communities depend on grazing history. Global Ecology and Conservation, 50, e02819, 1–8.
 
-############
+
 Data are publicly available online at the ETH Research collection https://doi.org/10.3929/ethz-b-000311956
 Citation for dataset: 
 Losapio, G., De Moraes, C.M., Nickels, V., Tscheulin, T., Zouros, N., Mescher, M.C. (2018) Abundance and diversity data of arthropod community response to land-use change and species invasion. ETH Research Collection. https://doi.org/10.3929/ethz-b-000311956
 
-############
+
 R code is publicy available online in this GitHub project
 Citation for R code:
 Losapio, G., De Moraes, C.M., Nickels, V., Tscheulin, T., Zouros, N., Mescher, M.C. (2024) The effects of shrub encroachment on arthropod communities depend on grazing history, Zenodo [code]. https://doi.org/10.5281/zenodo.10682772
+
 
 ##########################################################################################################################
 ##########################################################################################################################
