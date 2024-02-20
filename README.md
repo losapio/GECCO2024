@@ -19,7 +19,8 @@ Citation for R code:
 Gianalberto Losapio. (2024). The effects of shrub encroachment on arthropod communities depend on grazing history, GitHub [R code] (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.10682773
 
 ##########################################################################################################################
-##########################################################################################################################
+
+
 Summary table of arthropod communities is included here as arthropoda1.csv. In that file, there are the following columns (variables):
 
 ID = pitfall sequential ID number
